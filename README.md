@@ -1,0 +1,2 @@
+# pcazteca
+Plataforma en el cual cada integrante puede publicar su informaciòn escolar, curriculum, foro informativo è incluso lugar en el cual cada usuario puede registrarse y publicar articulos personales en privado o modo publico. el foro informativo puede tener presentaciònes, visualizaciòn de archivos pdf y otros documentos è incluso subir video tutoriales por medio de plataformas de video como vimeo, dalymotionk, youtube etc.
